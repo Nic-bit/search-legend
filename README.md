@@ -267,7 +267,7 @@ via c++ and hidden complex service governance logic behind.
   * [12.6 意图识别]
 * [13 rank]
   * [相关性]
-  * [实效性]
+  * [时效性]
   * [权威性]
   * [ctr]
 * [14 ir新架构]
